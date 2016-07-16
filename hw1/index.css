@@ -1,0 +1,41 @@
+/*  Name: Zhouyang Yifan
+	section:IWP
+	description:basic of HTML and CSS
+	files:index.hml
+	      index.css
+	      pie.html
+	      recipe.css
+*/
+body {
+	font-family: Arial;
+	font-size: 20pt;
+	color: #404040;
+	background-image: url("silverware.jpg");
+	padding-left: 50px;                         
+	padding-right: 50px;
+}
+h1,h2 {
+	text-align: center;
+	color: #A4A400;
+}
+h1 {
+	text-align: center;
+	font-family: Arial;
+	font-size: 40pt;
+	color: #A4A400;
+	background-color: rgb(240,240,240)
+}
+h2 {
+    font-size: 20pt;
+}
+a {
+	color: #A4A400;
+}
+a:hover {
+	color: red;
+}
+pre {
+	font-size: 10pt;
+	font-style: italic;
+	text-align: center;
+}
